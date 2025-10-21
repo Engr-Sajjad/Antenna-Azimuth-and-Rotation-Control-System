@@ -1,0 +1,5 @@
+Project Scope and Control Objectives
+ Purpose:
+      To automatically control the azimuth (horizontal rotation) and elevation (tilt) of a telecom antenna.
+      Maintain precise angular positioning using a closed-loop feedback system (from sensors like rotary encoders or potentiometers).
+      Support remote monitoring and control via a telemetry interface (Ethernet/Wi-Fi/LoRa).
